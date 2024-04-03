@@ -14,6 +14,10 @@ We will measure and compare the changes in the following parameters due to growi
 
 Future predictions will also be made for the above mentioned parameters due to growing population.
 
+## Data
+
+Data will be collected for the above parameters for the time span of 1980 - 2020. All the data will be collected separately and then a relational graph will be constructed to see how population affected the beforementioned parameters. 
+
 ## Solution
 The life 
 - the simulation will be able to make economical prediction for the island of hawaii (only the hawaii island, for now)
